@@ -1,0 +1,1 @@
+Store output text copies
